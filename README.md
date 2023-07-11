@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Miguel Pereira</h1>
 <h3 align="center">💼 Freelance App Developer</h3>
-- 🌱   Desenvolvedor Mobile
+- 🌱   Desenvolvedor Kivy e Tkinter
 - ⚡   Apaixonado por educação e tecnologia
 - 👩🏼‍💻   Cursando último semestre de Ciências da Computação
 
