@@ -4,7 +4,7 @@
 <h3 align="center">💼 Freelance App Developer</h3>
 - 🌱   Desenvolvedor Kivy e Tkinter
 - ⚡   Apaixonado por educação e tecnologia
-- 👩🏼‍💻   Cursando último semestre de Ciências da Computação
+- 👩🏼‍💻   Graduado em Ciências da Computação
 
 
 <div style="display: inline_block"><br>
