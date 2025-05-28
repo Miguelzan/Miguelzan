@@ -37,7 +37,7 @@
 ## 🌐 Me encontre por aí
 
 <div>
-  <a href="https://instagram.com/miguelpeira" target="_blank">
+  <a href="https://www.instagram.com/devmiguelzan/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:mlplagreen@gmail.com">
