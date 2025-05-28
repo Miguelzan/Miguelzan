@@ -52,7 +52,7 @@
 
 ## 📌 Repositórios em Destaque
 
-- 📱 [App Kivy]([https://github.com/Miguelzan/Aplicativo-Moba](https://github.com/Miguelzan/Aplicativo-Moba.git)](https://github.com/Miguelzan/Aplicativo-Moba.git))
+- 📱 [App Kivy](https://github.com/Miguelzan/Aplicativo-Moba](https://github.com/Miguelzan/Aplicativo-Moba.git)](https://github.com/Miguelzan/Aplicativo-Moba.git))
 - 📊 [Automação de Relatórios com Python e Excel](https://github.com/Miguelzan/seu-projeto-excel)
 - 🌐 [Mini site com Flask](https://github.com/Miguelzan/seu-site-flask)
 
